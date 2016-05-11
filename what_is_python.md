@@ -1,4 +1,2 @@
 # What is Python
 
-
-
