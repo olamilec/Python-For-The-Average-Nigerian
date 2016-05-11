@@ -2,7 +2,8 @@
 
 Here's  a quick run down of chapters we might likely have 
 
-1. What is Python?
+1. Introduction to Computer Programming
+2. What is Python?
 2. Installing Python
 3. Built-in datatypes :
     1. Strings
